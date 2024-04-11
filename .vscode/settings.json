@@ -1,0 +1,19 @@
+{
+  "workbench.colorCustomizations": {
+    "[Sublime Material Theme - Dark]": {
+      "editor.background": "#000000",
+      "sideBar.background": "#000000",
+      "sideBar.foreground": "#ffffffcc",
+      "panel.background": "#000000",
+      "titleBar.activeBackground": "#00000099",
+      "statusBar.background": "#000000aa",
+      "scrollbar.shadow": "#ffffffaa",
+      "scrollbarSlider.background": "#ffffff44",
+      "activityBar.background": "#000000aa",
+      "tab.inactiveBackground": "#222222",
+      "tab.activeBackground": "#333333"
+    },
+    "minimap.background": "#00000000",
+    "scrollbar.shadow": "#00000000"
+  }
+}
